@@ -1,0 +1,203 @@
+
+
+*{
+  font-family:Helvetica, Arial, sans-serif;
+  font-family: Roboto;
+}
+
+.Banner{
+  background-image: url("Banner.JPG");
+  background-size: 100%;
+}
+h1 {
+  font-size: 120px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-variant-caps: all-petite-caps;
+  color: white;
+}
+
+.Colours {
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+  height: 800px;
+  opacity: 85%;
+}
+
+h2{
+  color: gray;
+  font-size: 80px;
+  padding-top: 50px;
+  text-shadow: 5px 5px black;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    clear:both;
+    font-family: Helvetica, Arial, sans-serif;
+    text-transform: capitalize;
+}
+
+
+div text {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.Reds {
+    height: 550px;
+    width: 500px;
+    float: left;
+    margin-right: 180px;
+    margin-left:25px;
+    margin-top: 0;
+    text-align: center;
+    background-color: #D5D8DC;
+    box-shadow: 20px 20px 20px lightslategray;
+    
+}
+
+  .Yellows {
+    height: 550px;
+    width: 500px;
+    float: left;
+    margin-right: 180px;
+    margin-top: 0;
+    text-align: center;
+    background-color: #D5D8DC;
+  }
+
+  .Blues {
+    height: 550px;
+    width: 500px;
+    float:left;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    background-color: #D5D8DC;
+  }
+
+  .color-label, .color-hex {
+   font-size: larger;
+   font-weight: bold;
+   color: gray;
+   -webkit-text-stroke-width: 0.5px;
+   -webkit-text-stroke-color: black;
+  }
+
+
+  div {
+    border-radius: 50px;
+  }
+
+  /*Reds*/
+
+  .color-panel-Light-Coral {
+    text-align: center;
+    background-color: #F08080;
+
+  }
+
+  .color-panel-Salmon {
+    text-align: center;
+    background-color:#FA8072;
+  }
+
+  .color-panel-Crimson {
+    text-align: center;
+    background-color:#DC143C;
+
+  }
+
+  .color-panel-Red {
+    text-align: center;
+    background-color:#FF0000;
+
+  }
+
+  .color-panel-Fire-Brick {
+    text-align: center;
+    background-color:#B22222;
+
+  }
+
+  .color-panel-Dark-Red {
+    text-align: center;
+    background-color:#8B0000;
+  }
+
+/* Yellows*/
+
+  .color-panel-Gold{
+    background-color: #FFD700;
+  }
+
+  .color-panel-Yellow{
+    background-color: yellow;
+  }
+
+  .color-panel-Light-Yellow{
+     background-color: #FFFFE0;
+  }
+
+  .color-panel-Lemon-Chiffon{
+     background-color: #FFFACD;
+  }
+
+  .color-panel-Pale-Goldenrod{
+    background-color: #EEE8AA;
+  }
+
+  .color-panel-Khaki{
+    background-color: #F0E68C;
+  }
+  
+  /*Blues*/
+
+  .color-panel-Cyan{
+    background-color: #00FFFF;
+  }
+
+  .color-panel-Turquoise{
+    background-color:#40E0D0;
+  }
+
+  .color-panel-Royal-Blue{
+     background-color:#4169E1;
+  }
+
+  .color-panel-Blue{
+     background-color:#0000FF;
+  }
+
+  .color-panel-Navy{
+    background-color:#000080;
+  }
+
+  .color-panel-Midnight-Blue{
+    background-color:#191970;
+  }
+
+
+
+/*Fonts*/
+
+.Fonts {
+  height:800px;
+  background-image:url("Fonts.JPG");
+  background-color: 50%;
+  height: 800px;
+  opacity: 100%;
+}
+
+.Fonts-Head {
+  color: black;
+}
+.Tourney {
+  width: 500px;
+  background-color: black;
+}
+
+
+
+
